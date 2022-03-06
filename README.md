@@ -1,5 +1,6 @@
 # Iris flower dataset
 Simple iris data set EDA and classification for DSP-IP
+
 During the EDA i noticed :
 1. the data is well balanced 
 2. we can see a some good classification seperation on the petal width / length visualization (less notices on the sepal width/lenth plot)
