@@ -1,2 +1,2 @@
-# Iris flower data set EDA
-Simple iris EDA for DSP-IP
+# Iris flower dataset
+Simple iris ds EDA and classification for DSP-IP
